@@ -1,4 +1,4 @@
-# my-projects
+# Lyrical Density between Music Genres
 Together with Kristofer Jachnow, I explored the differences in lexical density between music genres. 
 The final paper was part of an introductory course to Digital Humanities at the University of Leipzig. 
 
